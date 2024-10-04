@@ -39,7 +39,6 @@ Build a simple appointment booking system with both back-end and front-end compo
   - Instructions on how to set up and run the project locally.
   - A brief description of the project and its features.
   - Any assumptions made and areas for potential improvement.
--   Optionally, include a short video walkthrough (using Loom or a similar tool) demonstrating the functionality of the application.
 -   Invite the following GitHub users to your repository:
   - [@joaopcm](https://github.com/joaopcm)
   - [@ivoneijr](https://github.com/ivoneijr)
@@ -49,7 +48,6 @@ Build a simple appointment booking system with both back-end and front-end compo
 -   **Problem-Solving**: Approach to handling requirements and constraints.
 -   **Code Quality**: Clean, readable, and maintainable code.
 -   **Performance**: Efficient API and front-end performance.
--   **Communication**: Clarity and completeness of the README file and optional video walkthrough.
 
 ## Getting Started
 ### Prerequisites
