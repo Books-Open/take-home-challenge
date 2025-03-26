@@ -40,7 +40,7 @@ Build a simple appointment booking system with both back-end and front-end compo
   - A brief description of the project and its features.
   - Any assumptions made and areas for potential improvement.
 -   Invite the following GitHub users to your repository:
-  - [@joaopcm](https://github.com/joaopcm)
+  - [@gary](https://github.com/garychen26)
 
 ## Evaluation Criteria
 -   **Technical Skills**: Proficiency in building APIs and front-end applications.
@@ -56,6 +56,6 @@ Build a simple appointment booking system with both back-end and front-end compo
 
 ## Contact
 
-If you have any questions, feel free to reach out to us at [hiring@booksopen.app](mailto:hiring@booksopen.app).
+If you have any questions, feel free to reach out to us at [gary@booksopen.io](mailto:gary@booksopen.io).
 
 Good luck, and we look forward to seeing your submission!
